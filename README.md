@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonoSplit1
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c# coding.
+- 🌱 I’m currently learning python coding.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me aaddeemm642@gmail.com.
 - 😄 Pronouns: fuck this
